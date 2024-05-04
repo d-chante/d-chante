@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chantelle, MASc student at the Concordia University Aerospace Robotics Laboratory
+- 👋 Hi, I’m Chantelle, MASc student at the Concordia University [Aerospace Robotics Laboratory](https://users.encs.concordia.ca/~kskoniec/)
 - I'm interested in space 🪐, software 💻, and anywhere these two intersect
 - 📫 Reach me at chantelle.dubois@mail.concordia.ca
 
